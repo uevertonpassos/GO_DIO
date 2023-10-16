@@ -8,7 +8,7 @@ func main(){
 	tempF  := ebulicaoF
 	tempC  := (tempF - 32)*5/9 
 
-	fmt.Printf("A ebulição da água acontecem em %g °F e em %g em °C", tempF,
+	fmt.Printf("A ebulição da água acontecem em %.2f °F e em %.2f em °C", tempF,
 	tempC)
 
 

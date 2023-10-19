@@ -13,3 +13,5 @@ func main(){
 	}
 	fmt.Println(numeros/10.0)
 }
+// fiz desse jeito pois até esse ponto eu ainda não sei como fazer o usuário
+// dar inputs para a máquina

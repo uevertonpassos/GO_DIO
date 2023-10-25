@@ -10,6 +10,7 @@ func main(){
 	elemento["H"] = "Hidrogênio"
 	elemento["He"] = "Helio"
 	elemento["Ne"] = "Neon"
-	fmt.Println(elemento["Ne"])
+	fmt.Println(elemento)
+	// quase um tradutor
 }
 
